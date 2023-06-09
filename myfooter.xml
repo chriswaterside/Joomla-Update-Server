@@ -5,11 +5,11 @@
     <description>My Footer Module for Joomla</description>
     <element>mod_myfooter</element>
     <type>module</type>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <client>0</client>
     <infourl title="Chris Vaughans">https://github.com/chriswaterside</infourl>
     <downloads>
-        <downloadurl type="full" format="zip">https://github.com/chriswaterside/Joomla-Header-Module/archive/refs/tags/0.0.1.zip</downloadurl>
+        <downloadurl type="full" format="zip">https://github.com/chriswaterside/Joomla-Header-Module/archive/refs/tags/1.0.0.zip</downloadurl>
     </downloads>
     <maintainer>Chris Vaughan</maintainer>
     <maintainerurl>https://github.com/chriswaterside</maintainerurl>
